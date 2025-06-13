@@ -1,0 +1,7 @@
+sstreamlit
+python-dotenv
+openai
+langchain
+langchain-openai
+langchain-community
+PyMuPDF
